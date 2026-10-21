@@ -1,0 +1,8 @@
+# AntiAgent .gitignore
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+.vscode/
+.idea/
+*.tmp
